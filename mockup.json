@@ -1,0 +1,2491 @@
+[
+  {
+    "item_number": 590421171,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": 475285725,
+    "revision": 9
+  },
+  {
+    "item_number": 986096396,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 4,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 733410476,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 3,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 749020601,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 4,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 733428041,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 6,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 600928494,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 2,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 708921546,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 6,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 546434568,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 6,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 643438700,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 2,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 283667598,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 109777413,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 549555359,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 2,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 204237181,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 832507222,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 3,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 313374049,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 319000263,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 679912979,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 696546062,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 6,
+    "components": [
+      858784420,
+      585245736
+    ],
+    "revision": 6
+  },
+  {
+    "item_number": 509353788,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 5,
+    "components": [
+      585245736,
+      622133756
+    ],
+    "revision": 3
+  },
+  {
+    "item_number": 720567972,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 0,
+    "components": [
+      622133756,
+      251375017
+    ],
+    "revision": 6
+  },
+  {
+    "item_number": 622133756,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 1,
+    "components": [
+      251375017,
+      475359189
+    ],
+    "revision": 3
+  },
+  {
+    "item_number": 626460073,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 1,
+    "components": [
+      475359189,
+      604866002
+    ],
+    "revision": 2
+  },
+  {
+    "item_number": 145190004,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 6,
+    "components": [
+      604866002,
+      413223676
+    ],
+    "revision": 1
+  },
+  {
+    "item_number": 619607391,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 0,
+    "components": [
+      413223676,
+      739632516
+    ],
+    "revision": 2
+  },
+  {
+    "item_number": 585245736,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 0,
+    "components": [
+      739632516,
+      709896149
+    ],
+    "revision": 9
+  },
+  {
+    "item_number": 279615265,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 2,
+    "components": [
+      709896149,
+      832507222
+    ],
+    "revision": 6
+  },
+  {
+    "item_number": 111250772,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 2,
+    "components": [
+      832507222,
+      287407644
+    ],
+    "revision": 9
+  },
+  {
+    "item_number": 671902781,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": [
+      287407644,
+      205383548
+    ],
+    "revision": 1
+  },
+  {
+    "item_number": 462061450,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 0,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 940215329,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 5,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 950928280,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 196644791,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 662628337,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 18578525,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 3,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 913389052,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 941419316,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 108929115,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 284439811,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 3,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 421433805,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 2,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 820863468,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 2,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 352935222,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 6,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 467817533,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 2,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 238761386,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 1,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 559090563,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 597862235,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 0,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 965584406,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 2,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 709896149,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 2,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 261576233,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 5,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 300830971,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 895606569,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 5,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 113472673,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 4,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 307696455,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 285516382,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 4,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 648210408,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 703718553,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 746338457,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 3,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 739632516,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 6,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 649320783,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 4,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 624551991,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 694956510,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 413223676,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 0,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 512160633,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 754996855,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 2,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 999553336,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 3,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 835472843,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 0,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 277648341,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 5,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 782974004,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 2,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 251375017,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 630854536,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 1,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 74792301,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 2,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 36387330,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 205383548,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 106093266,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 2,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 173008834,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 4,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 904049938,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 2,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 485181955,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 124528462,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 475359189,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 619283038,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 90244925,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 288306122,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 993941630,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 5,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 395460717,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 4,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 338322537,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 911761969,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 534340752,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 820893591,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 1,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 735831295,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 3,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 625996367,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 2,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 858784420,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 3,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 447138908,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 14418324,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 2,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 870475172,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 5,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 107781353,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 4,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 560439389,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 1,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 868865572,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 1,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 1250560,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 856789918,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 866866390,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 320838447,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 172656069,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 780395483,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 604866002,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 39312601,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 243839202,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 4,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 48851357,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 964772043,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 708786058,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 195147330,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 848844268,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 99345837,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 287407644,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 2,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 200378235,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 5,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 867008662,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 4,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 275793374,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 3642768,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 6,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 211926701,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 1,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 270909865,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 475285725,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 4,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 129849601,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 46390747,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 2,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 635658580,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 6,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 505404203,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 464435647,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 562823427,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 195433524,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 3,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 204334890,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 3,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 574371043,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 6,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 607357846,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 3,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 122982760,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 1,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 780564062,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 416054287,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 972071114,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 2,
+    "components": [
+      124528462,
+      619607391,
+      485181955,
+      447138908
+    ],
+    "revision": 6
+  },
+  {
+    "item_number": 996481563,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 6,
+    "components": [
+      619607391,
+      485181955,
+      447138908,
+      196644791
+    ],
+    "revision": 6
+  },
+  {
+    "item_number": 326248069,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 2,
+    "components": [
+      485181955,
+      447138908,
+      196644791,
+      754996855
+    ],
+    "revision": 2
+  },
+  {
+    "item_number": 512120802,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 4,
+    "components": [
+      447138908,
+      196644791,
+      754996855,
+      858784420
+    ],
+    "revision": 9
+  },
+  {
+    "item_number": 277623973,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 6,
+    "components": [
+      196644791,
+      754996855,
+      858784420,
+      122982760
+    ],
+    "revision": 1
+  },
+  {
+    "item_number": 76646103,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 3,
+    "components": [
+      754996855,
+      858784420,
+      122982760,
+      562823427
+    ],
+    "revision": 2
+  },
+  {
+    "item_number": 942701282,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 6,
+    "components": [
+      858784420,
+      122982760,
+      562823427,
+      549555359
+    ],
+    "revision": 6
+  },
+  {
+    "item_number": 976865451,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": [
+      122982760,
+      562823427,
+      549555359,
+      512120802
+    ],
+    "revision": 3
+  },
+  {
+    "item_number": 400403426,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 2,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 197297683,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 2,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 485817299,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 791452520,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 872119069,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 4,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 54733758,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 0,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 2785510,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 293422738,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 417112046,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 762319877,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 865280818,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 95078034,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 1,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 82386238,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 3,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 267194213,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 4,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 337225141,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 216987107,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 2,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 947390916,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 3,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 899206143,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 6,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 118168755,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 4,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 904149385,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 4,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 280976936,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 5,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 274230121,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 555585731,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 987887701,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 2,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 955083234,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 611220461,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 530243722,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 479182783,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 3,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 352057980,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 3,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 6928622,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 1,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 180517586,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 6,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 930559631,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 6,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 528333239,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 699712191,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 829145841,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 813354284,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 999816822,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 3,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 886636977,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 379701525,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 305318660,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 2,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 83004625,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 643852057,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 415579982,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 458334418,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 589774425,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 1,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 259095161,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 321751735,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 6,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 844013477,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 189235601,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 701075414,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 2,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 561363868,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 616402096,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 961192033,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 501766137,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 6,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 823379531,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 96393885,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 934201540,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 2,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 288891238,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 944612269,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 883542542,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 3,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 259142088,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 831530801,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 864170066,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 6,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 198490821,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 221000409,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 2,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 88501961,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 0,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 132835096,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 881052290,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 552939144,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 869877619,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 431146318,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 130410569,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 281847021,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 429011859,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 893336795,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 296442788,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 113987840,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 962980143,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 794944345,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 1,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 340368777,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 98147137,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 4,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 610212454,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 2,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 137447380,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 4,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 247412013,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 933008614,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 327284505,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 965339238,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 4,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 613086466,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 2,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 710694623,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 2,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 319717036,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 2,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 719739012,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 4,
+    "components": [
+      251375017,
+      300830971,
+      512160633
+    ],
+    "revision": 2
+  },
+  {
+    "item_number": 435387024,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 0,
+    "components": [
+      300830971,
+      512160633,
+      509353788
+    ],
+    "revision": 3
+  },
+  {
+    "item_number": 464698332,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 5,
+    "components": [
+      512160633,
+      509353788,
+      694956510
+    ],
+    "revision": 2
+  },
+  {
+    "item_number": 934882705,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 6,
+    "components": [
+      509353788,
+      694956510,
+      600928494
+    ],
+    "revision": 9
+  },
+  {
+    "item_number": 194599313,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 5,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 857245093,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 2,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 799527997,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 0,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 836975513,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 4,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 374654447,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 884538448,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 1,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 801318418,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 465536230,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 4,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 645209283,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 4,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 745538710,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 6,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 266811630,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 1,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 334003753,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 3,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 556014365,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 2,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 277187270,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 4,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 780261487,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 236142066,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 5,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 320894638,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 5,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 218814645,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 0,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 502960534,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 717358373,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 637518585,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 6,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 347191545,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 0,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 215081186,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 4,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 151955894,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 14347184,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 0,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 662132723,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 3,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 957015113,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 1,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 869040663,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 6,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 178076450,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 173512639,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 628775540,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 91118436,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 0,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 472706852,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 2,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 213891695,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 0,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 507877197,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 2,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 103103332,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 252846689,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 884700484,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 902486612,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 772037839,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 214150267,
+    "description": "PWA, MOTHERBOARD (MB)",
+    "part_type": "PWA",
+    "permission_level": 1,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 9364057,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 2,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 910319695,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 3,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 689148221,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 877916777,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 6,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 168822824,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 2,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 649303636,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 6,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 230043134,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 4,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 43243221,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 129386797,
+    "description": "PWA, FPA CONTROL BOARD",
+    "part_type": "PWA",
+    "permission_level": 4,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 979380924,
+    "description": "BRAID,SHIELD,TIN/COPPER,0.4D TUBE,9AWG",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 9
+  },
+  {
+    "item_number": 609631598,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 5,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 40834365,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 6,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 144521558,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 0,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 656063649,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 0,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 923119778,
+    "description": "LED,RED/GRN,BICOLOR",
+    "part_type": "",
+    "permission_level": 3,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 121331290,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 6,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 147498466,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 5,
+    "components": "",
+    "revision": 3
+  },
+  {
+    "item_number": 728036806,
+    "description": "CBL ASSY,POWER",
+    "part_type": "",
+    "permission_level": 4,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 320512070,
+    "description": "STRAIGHT PIN TERM,MTG HOLES AND GUIDE PINS",
+    "part_type": "",
+    "permission_level": 2,
+    "components": "",
+    "revision": 1
+  },
+  {
+    "item_number": 364036305,
+    "description": "CHASSIS, TRANSCEIVER SUB ASSEMBLY",
+    "part_type": "CHASSIS",
+    "permission_level": 6,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 571423240,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 6,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 180379144,
+    "description": "WASHER,#2,FLAT,SS",
+    "part_type": "WASHER",
+    "permission_level": 3,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 759714506,
+    "description": "PWA,HIGH SPEED",
+    "part_type": "PWA",
+    "permission_level": 2,
+    "components": "",
+    "revision": 2
+  },
+  {
+    "item_number": 94044316,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 1,
+    "components": "",
+    "revision": 6
+  },
+  {
+    "item_number": 833287770,
+    "description": "NUT,HEX,1-16 UNJC-7B,0.0235 SMALL PATTERN",
+    "part_type": "NUT",
+    "permission_level": 6,
+    "components": "",
+    "revision": 1
+  }
+]

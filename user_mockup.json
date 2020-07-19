@@ -1,0 +1,58 @@
+[
+  {
+      "_id": "0001",
+      "first_name":"Enrique",
+      "last_name":"Alonso-Esposito",
+      "permission_level":4,
+      "recently_viewed":[""],
+      "favorites":[""]
+  },
+  {
+      "_id": "0002",
+      "first_name":"Forrest",
+      "last_name":"Joy",
+      "permission_level":3,
+      "recently_viewed":[""],
+      "favorites":[""]
+  },
+  {
+      "_id": "0003",
+      "first_name":"Sara",
+      "last_name":"Kim",
+      "permission_level":1,
+      "recently_viewed":[""],         
+      "favorites":[""]
+  }
+  {
+    "_id": "0004",
+    "first_name":"Ronalyn",
+    "last_name":"Castilla",
+    "permission_level":1,
+    "recently_viewed":[""],
+    "favorites":[""]
+  },
+  {
+    "_id": "0005",
+    "first_name":"Jasper",
+    "last_name":"Cavins",
+    "permission_level":1,
+    "recently_viewed":[""],
+    "favorites":[""]
+  },
+  {
+    "_id": "0006",
+    "first_name":"Maurice",
+    "last_name":"Strickland",
+    "permission_level":5,
+    "recently_viewed":[""],
+    "favorites":[""]
+  },  
+  {
+    "_id": "0007",
+    "first_name":"Yuan Yuan",
+    "last_name":"Jiang",
+    "permission_level":4,
+    "recently_viewed":[""],
+    "favorites":[""]
+  }
+]
